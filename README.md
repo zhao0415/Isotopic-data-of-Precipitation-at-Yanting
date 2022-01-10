@@ -1,1 +1,1 @@
-# Isotopic-data-of-Precipitation-at-Yanting
+# Isotopic-data-of-Precipitation
